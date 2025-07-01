@@ -1,0 +1,13 @@
+{
+  "name": "trf1-puppeteer-api",
+  "version": "1.0.0",
+  "description": "API para consulta de processos no TRF1 com Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.3.8"
+  }
+}
